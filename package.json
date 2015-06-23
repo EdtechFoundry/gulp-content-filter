@@ -1,0 +1,39 @@
+{
+  "name": "gulp-content-filter",
+  "version": "0.0.0",
+  "description": "Gulp plugin to filter files by content",
+  "main": "./index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EdtechFoundry/gulp-content-filter.git"
+  },
+  "keywords": [
+    "gulp",
+    "filter"
+  ],
+  "author": {
+    "name": "Kenneth Lynne",
+    "email": "kenneth.lynne@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EdtechFoundry/gulp-content-filter/issues"
+  },
+  "homepage": "https://github.com/EdtechFoundry/gulp-content-filter#readme",
+  "dependencies": {
+    "gulp-util": "^3.0.5",
+    "through2": "^2.0.0",
+    "vinyl": "^0.5.0"
+  },
+  "devDependencies": {
+    "chai": "^1.9.1",
+    "gulp": "^3.9.0",
+    "gulp-jshint": "^1.8.4",
+    "gulp-mocha": "^1.0.0",
+    "jshint-stylish": "^0.4.0",
+    "mocha": "^1.21.4"
+  }
+}
