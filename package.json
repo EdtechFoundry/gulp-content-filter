@@ -26,14 +26,14 @@
   "dependencies": {
     "gulp-util": "^3.0.5",
     "through2": "^2.0.0",
-    "vinyl": "^0.5.0"
+    "vinyl": "^2.0.1"
   },
   "devDependencies": {
-    "chai": "^1.9.1",
+    "chai": "^3.5.0",
     "gulp": "^3.9.0",
-    "gulp-jshint": "^1.8.4",
-    "gulp-mocha": "^1.0.0",
-    "jshint-stylish": "^0.4.0",
-    "mocha": "^1.21.4"
+    "gulp-jshint": "^2.0.4",
+    "gulp-mocha": "^3.0.1",
+    "jshint-stylish": "^2.2.1",
+    "mocha": "^3.2.0"
   }
 }
