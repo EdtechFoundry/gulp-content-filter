@@ -1,4 +1,6 @@
 # gulp-content-filter
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/EdtechFoundry/gulp-content-filter.svg)](https://greenkeeper.io/)
 Gulp plugin to filter by file content
 
 ## Usage
